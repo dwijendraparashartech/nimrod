@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  parent_mobile: MyString
+  student_mobile: MyString
+  city: MyString
+  parent_id: 1
+
+two:
+  name: MyString
+  parent_mobile: MyString
+  student_mobile: MyString
+  city: MyString
+  parent_id: 1
